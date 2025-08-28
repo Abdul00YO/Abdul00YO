@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Abdullah Arshad
 
-💻 **Aspiring Data Scientist | AI & Data Enthusiast | Sports Tech Builder**  
+💻 **Data Scientist | AI & Data Technician | Tech Builder**  
 
 I love building **AI-powered applications**, working on **data-driven solutions**, and exploring ways technology can create impact in industries like **sportswear, finance, and streaming platforms**.  
 
@@ -12,7 +12,7 @@ I love building **AI-powered applications**, working on **data-driven solutions*
 - 🔭 Currently working on **AI-driven web apps** and **sportswear brand tech projects**  
 - 🌱 Learning more about **Deep Learning, MLOps, and Scalable Web Development**  
 - 🤝 Open to collaborating on **AI, Data Science, and SaaS projects**  
-- ⚡ Fun fact: I enjoy combining **sports & tech innovation** to create unique solutions  
+- ⚡ Fun fact: I enjoy combining **AI & tech innovation** to create unique solutions  
 
 ---
 
@@ -46,18 +46,18 @@ I love building **AI-powered applications**, working on **data-driven solutions*
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)  
+![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true)  
 
 ---
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](YourLinkedInURL)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/abdullah-arshad-ds)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](YourTwitterURL)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/YourUsername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abdul00YO)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](YourPortfolioURL)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:youremail@example.com)  
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdullaharshadsialkot@gmail.com)  
 
 ---
 
