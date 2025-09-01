@@ -42,7 +42,8 @@ I love building **AI-powered applications**, working on **data-driven solutions*
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square)
 
-**Contributions Graph**
+---
+##Contributions Graph
 ![snake gif](https://github.com/Abdul00YO/Abdul00YO/blob/output/github-snake-dark.svg)
 
 ---
