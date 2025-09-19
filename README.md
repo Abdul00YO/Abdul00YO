@@ -2,6 +2,8 @@
 
 # 👋 Hey there, I'm Abdullah Arshad
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Data+Scientist;ML+Engineer;IT+Solutions+Developer)](https://git.io/typing-svg)
+
 💻 **Data Scientist | AI & Data Technician | Tech Builder**  
 
 I love building **AI-powered applications**, working on **data-driven solutions**, and exploring ways technology can create impact in industries like **sportswear, finance, and streaming platforms**.  
