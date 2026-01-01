@@ -1,93 +1,112 @@
 <!-- PROFILE README -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BCF2&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Abdullah+Arshad;Data+Scientist+%7C+AI+Engineer;Tech+Innovator+%7C+ML+Practitioner;Building+AI-powered+solutions!" alt="Typing SVG" />
+  </a>
+</p>
 
-# 👋 Hi, I'm Abdullah Arshad
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Data+Scientist;AI+Engineer;Tech+Innovator;ML+Practitioner)](https://git.io/typing-svg)
-
-💻 **Data Scientist | AI & Web Developer | Tech Enthusiast**  
-
-I build **AI-powered applications**, craft **data-driven solutions**, and explore how technology can **revolutionize industries** like **sportswear, finance, and streaming platforms**.  
+<h3 align="center">💻 Data Scientist | AI & Web Developer | Tech Enthusiast</h3>
+<p align="center">I build <strong>AI-powered applications</strong>, craft <strong>data-driven solutions</strong>, and explore how technology can <strong>revolutionize industries</strong> like sportswear, finance, and streaming platforms.</p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **AI-driven web apps** and **smart tech solutions for sportswear**  
-- 🌱 Learning **Deep Learning, MLOps, Scalable Web Development, and Cloud ML**  
-- 🤝 Open to collaborate on **AI, Data Science, and SaaS projects**  
-- ⚡ Fun fact: I combine **AI + creativity** to make unique solutions  
+- 🔭 Currently building **AI-driven web apps** and **smart tech solutions for sportswear**
+- 🌱 Learning **Deep Learning, MLOps, Scalable Web Development, and Cloud ML**
+- 🤝 Open to collaborate on **AI, Data Science, and SaaS projects**
+- ⚡ Fun fact: I combine **AI + creativity** to make unique solutions
 - 🎯 Hobbies: **Gaming, Sci-Fi, Futuristic Tech, and Problem Solving**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white&style=flat-square)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+### Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,csharp,flask,fastapi,js" />
+</p>
 
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
-![Oracle 10g](https://img.shields.io/badge/-Oracle%2010g-F80000?logo=oracle&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-003B57?logo=databricks&logoColor=white&style=flat-square)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
+### Databases & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,docker,vscode" />
+</p>
 
-**AI & ML**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/-ScikitLearn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white&style=flat-square)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4C72B0?logo=python&logoColor=white&style=flat-square)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white&style=flat-square)
+### AI & ML
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit" />
+</p>
+
+*(Icons powered by [skill-icons](https://github.com/tandpfun/skill-icons) — lightweight, modern, and auto-themed!)*
 
 ---
 
 ## 📊 GitHub Stats
 
-![Abdullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdul00YO&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul00YO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdul00YO&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+</p>
+
+**Tip:** If stats/trophies/streak don't load immediately, try refreshing the page or viewing in incognito — it's a common caching issue with these services.
 
 ---
 
 ## 🖼️ Contributions & Fun
 
-![snake gif](https://github.com/Abdul00YO/Abdul00YO/blob/output/github-snake-dark.svg)
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abdul00YO&theme=tokyonight&margin-w=15&no-frame=true)
+<p align="center">
+  <img src="https://github.com/Abdul00YO/Abdul00YO/blob/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
 ## 💼 Projects Showcase
-| Project | Tech | Description |
-|---------|------|-------------|
-| **Resume Analyzer** | Python, Streamlit, ML | Analyzes resumes & provides skill recommendations |
-| **Blockchain Voting System** | Solidity, Web3.js, Flask | Secure blockchain-based voting dApp |
-| **COL-BI Project** | HTML, CSS, Python | Web app for connecting teammates on projects |
+
+| Project                  | Tech                          | Description                                      |
+|--------------------------|-------------------------------|--------------------------------------------------|
+| **Resume Analyzer**      | Python, Streamlit, ML         | Analyzes resumes & provides skill recommendations |
+| **Blockchain Voting System** | Solidity, Web3.js, Flask  | Secure blockchain-based voting dApp              |
+| **COL-BI Project**       | HTML, CSS, Python             | Web app for connecting teammates on projects     |
 
 > Add your new projects here as you build them!
 
 ---
 
-## 🌐 Connect with Me
+## 👀 Profile Visitors
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdul00YO&label=Visitors&countColor=%23263759&style=flat-square" alt="Visitors" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/abdullah-arshad-ds)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Abdul00YO)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://developer.hatissports.com)  
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:abdullaharshadsialkot@gmail.com)  
+*(Optional: Add WakaTime coding stats if you use it)*
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&hide_border=true" />
+</p>
+-->
 
 ---
 
-✨ _“Strive to build things that inspire and make an impact.”_
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-arshad-ds"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Abdul00YO"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://developer.hatissports.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:abdullaharshadsialkot@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>✨ “Strive to build things that inspire and make an impact.” ✨</i>
+</p>
