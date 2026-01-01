@@ -51,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <!-- DenverCoder1's streak stats - most popular and stable replacement -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?user=Abdul00YO&theme=tokyonight" />
-</p>
 
 <p align="center">
   <!-- Trophies – try this alternative if the original stays down -->
