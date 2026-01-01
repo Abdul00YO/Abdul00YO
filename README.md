@@ -87,7 +87,7 @@
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FAbdul00YO&label=Visitors&countColor=%23263759&style=flat-square" alt="Visitors" />
 </p>
 
-*(Optional: Add WakaTime coding stats if you use it)*
+
 <!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your_wakatime_username&theme=tokyonight&hide_border=true" />
