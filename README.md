@@ -53,8 +53,9 @@ I love building **AI-powered applications**, working on **data-driven solutions*
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true)  
+![Abdullah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight)
+
 
 ---
 
