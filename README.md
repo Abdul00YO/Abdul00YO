@@ -53,7 +53,7 @@
 
 <p align="center">
   <!-- DenverCoder1's streak stats - most popular and stable replacement -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abdul00YO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?user=Abdul00YO&theme=tokyonight" />
 </p>
 
 <p align="center">
