@@ -58,7 +58,7 @@
 
 <p align="center">
   <!-- Trophies – try this alternative if the original stays down -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdul00YO&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/trophy?user=Abdul00YO&theme=tokyonight" />
 </p>
 
 
