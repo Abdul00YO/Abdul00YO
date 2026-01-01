@@ -36,29 +36,31 @@
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,pandas,numpy,matplotlib,seaborn,streamlit" />
 </p>
 
-*(Icons powered by [skill-icons](https://github.com/tandpfun/skill-icons) — lightweight, modern, and auto-themed!)*
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdul00YO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
+  <!-- Faster & more reliable fork of readme-stats -->
+  <img src="https://github-readme-stats.anuraghazra.io/api?username=Abdul00YO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdullah's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra.io/api/top-langs/?username=Abdul00YO&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul00YO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- Better streak stats (streak-stats instead of the dead Heroku one) -->
+  <img src="https://streak-stats.demolab.com?user=Abdul00YO&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
+  <!-- Trophies – try this alternative if the original stays down -->
   <img src="https://github-profile-trophy.vercel.app/?username=Abdul00YO&theme=tokyonight&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
-**Tip:** If stats/trophies/streak don't load immediately, try refreshing the page or viewing in incognito — it's a common caching issue with these services.
 
 ---
 
